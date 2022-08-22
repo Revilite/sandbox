@@ -1,0 +1,6 @@
+button{
+    display: flex;
+    font-size:56px;
+    align-items:center;
+    justify-content: center;
+}
